@@ -1,0 +1,25 @@
+WYMAGANIA NIEFUNKCJONALNE
+
+  •	Wymagania produktowe: (zachowanie produktu)
+    o	Na jednym urządzeniu może być zalogowana maksymalnie jedna osoba
+    o	Aplikacja na system Android (API 21+), iOS (10+) oraz aplikacja webowa
+    o	Łączność z internetem min. 2 Mb/s
+    o	Szkolenie dla użytkowników aplikacji zostanie przygotowane w formie dokumentu dostępnego w internecie
+    o	Maksymalna średni czas ładowania strony to 1,5 sekundy
+    o	Logotyp wytwórcy przy uruchamianiu aplikacji (splashscreen) oraz w zakładce O aplikacji
+    o	Minimalne wymagania dla systemu Android
+      	2 GB RAM
+      	Ekran 4 cale o rozdzielczości 1280 x 720
+    o	Błędy zakwalifikowane do błędów systemowych zostaną naprawione w ciągu dwóch dni roboczych
+    o	Aplikacja będzie zgodna z wzorcem Model View Controller
+    o	Możliwość przejrzenia oferty podczas przerwy w działaniu usług sprzedaży
+    
+  •	Wymagania organizacyjne: (strategia i procedury w firmie klienta i w firmie wytwórcy) 
+    o	Wykorzystanie narzędzia CASE
+    o	Język programowania: Java (Android), Swift (iOS), JavaScript+PHP (web)
+    o	Wymagania dostawy: dokumentacja dostarczona na ostatnie zajęcia laboratoryjne
+    
+  •	Wymagania zewnętrzne: (interakcje systemu z systemami innych firm i wymagania prawne) 
+    o	Użytkownicy muszą być pełnoletni
+    o	System nie powinien ujawniać dostawcom żadnych danych osobowych klientów poza informacjami niezdbędnymi do wykonania dostawy 
+    o	Dane osobowe użytkowników są udostępniane tylko w celach marketingowych za ich zgodą
